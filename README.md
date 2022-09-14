@@ -1,7 +1,7 @@
 # node-js-redis
 
-### how to configure the redis server
+#### how to configure the redis server
 https://gist.github.com/najathi/50a10a22f85780330e1858a434d64a55
 
-### redis v4 guide
+#### redis v4 guide
 https://www.digitalocean.com/community/tutorials/how-to-implement-caching-in-node-js-using-redis
