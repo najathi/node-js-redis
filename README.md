@@ -7,5 +7,6 @@ https://gist.github.com/najathi/50a10a22f85780330e1858a434d64a55
 https://www.digitalocean.com/community/tutorials/how-to-implement-caching-in-node-js-using-redis
 
 #### without radis cache
+![image](https://user-images.githubusercontent.com/35753879/190062312-91613138-256d-4fd1-9ad9-1ff624c10b23.png)
 
 #### with radis cache
